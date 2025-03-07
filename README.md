@@ -3,7 +3,11 @@
 
 ###
 
-<h3 align="left">My Name is Srikar Narsingoju , <br>I am a student pursuing B.Tech in Information Technology and am actively seeking for internship opportunities<br><br>• Skilled in Data Structures and Algorithms (DSA) , Competitive Programming (CP) , Problem-Solving<br>• Possess a good amount of knowledge and understanding about Full Stack Development<br>• Have a good grasp of Computer Science fundamentals and Object Oriented Programming (OOPs) concepts</h3>
+my name is ***Srikar Narsingoju*** , <br>
+  I am a student pursuing B.Tech in Information Technology and am actively seeking for internship opportunities <br>
+  • Skilled in Data Structures and Algorithms (DSA) , Competitive Programming (CP) , Problem-Solving<br>
+  • Possess a good amount of knowledge and understanding about Full Stack Development<br>
+  • Have a good grasp of Computer Science fundamentals and Object Oriented Programming (OOPs) concepts<br>
 
 ###
 
