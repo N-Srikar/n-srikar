@@ -103,8 +103,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/N-Srikar/N-Srikar/output/snake.svg" alt="Snake animation" />
-
-###
 
 ---
