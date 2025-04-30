@@ -2,10 +2,17 @@
 <h1 align="center">About Me</h1>
 
 ###
+I'm **Srikar Narsingoju**
 
-<h4 align="left">my name is SRIKAR NARSINGOJU , <br>I am a student pursuing B.Tech in Information Technology and am actively seeking for internship opportunities<br><br>• Skilled in Data Structures and Algorithms (DSA) , Competitive Programming (CP) , Problem-Solving<br>• Possess a good amount of knowledge and understanding about Full Stack Development<br>• Have a good grasp of Computer Science fundamentals and Object Oriented Programming (OOPs) concepts</h4>
+I am a 3rd year student at **KMIT**, pursuing B.Tech in Information Technology.
 
-###
+- I have a strong foundation in **Data Structures and Algorithms** with good problem-solving skills.
+- I am proficient in **Full Stack Development** with experience in building modern & dynamic web applications, from front-end interfaces to back-end systems.
+- I have a good understanding of **Computer Science fundamentals** and **Object Oriented Programming** concepts.
+
+I believe in continuous learning and enjoy exploring new technologies to expand my skill set.
+
+I am actively seeking for internship opportunities to apply what I’ve learned and gain hands-on experience.
 
 <h3 align="center">Programming Languages</h3>
 
@@ -57,24 +64,6 @@
   <img src="https://skillicons.dev/icons?i=mongodb" height="70" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="70" alt="mysql logo"  />
-</div>
-
-###
-
-<h3 align="center">Tools</h3>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=github" height="70" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="70" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="70" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="70" alt="kubernetes logo"  />
 </div>
 
 ###
