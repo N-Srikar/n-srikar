@@ -14,7 +14,7 @@ I believe in continuous learning and enjoy exploring new technologies to expand 
 
 I am actively seeking for internship opportunities to apply what I’ve learned and gain hands-on experience.
 
-<h3 align="center">Programming Languages</h3>
+<h1 align="center">Programming Languages</h1>
 
 ###
 
@@ -32,7 +32,7 @@ I am actively seeking for internship opportunities to apply what I’ve learned 
 
 ###
 
-<h3 align="center">Web Dev</h3>
+<h1 align="center">Web Dev</h1>
 
 ###
 
@@ -56,7 +56,7 @@ I am actively seeking for internship opportunities to apply what I’ve learned 
 
 ###
 
-<h3 align="center">DBMS</h3>
+<h1 align="center">DBMS</h1>
 
 ###
 
@@ -68,7 +68,7 @@ I am actively seeking for internship opportunities to apply what I’ve learned 
 
 ###
 
-<h3 align="center">Connect</h3>
+<h1 align="center">Connect</h1>
 
 ###
 
