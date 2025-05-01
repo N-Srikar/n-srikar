@@ -1,7 +1,18 @@
 ---
-<h1 align="center">About Me</h1>
+###
+
+<h1 align="center">
+  <a href="https://n-srikar.github.io/portfolio/" target="_blank">
+    Srikar Narsingoju
+  </a>
+</h1>
 
 ###
+
+<h2 align="center">About Me</h2>
+
+###
+Hello <br>
 I'm **Srikar Narsingoju**
 
 I am a 3rd year student at **KMIT**, pursuing B.Tech in Information Technology.
@@ -14,7 +25,7 @@ I believe in continuous learning and enjoy exploring new technologies to expand 
 
 I am actively seeking for internship opportunities to apply what I’ve learned and gain hands-on experience.
 
-<h1 align="center">Programming Languages</h1>
+<h2 align="center">Programming Languages</h2>
 
 ###
 
@@ -32,7 +43,7 @@ I am actively seeking for internship opportunities to apply what I’ve learned 
 
 ###
 
-<h1 align="center">Web Dev</h1>
+<h2 align="center">Web Dev</h2>
 
 ###
 
@@ -56,7 +67,7 @@ I am actively seeking for internship opportunities to apply what I’ve learned 
 
 ###
 
-<h1 align="center">DBMS</h1>
+<h2 align="center">DBMS</h2>
 
 ###
 
@@ -68,7 +79,7 @@ I am actively seeking for internship opportunities to apply what I’ve learned 
 
 ###
 
-<h1 align="center">Connect</h1>
+<h2 align="center">Connect</h2>
 
 ###
 
