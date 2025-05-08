@@ -12,16 +12,16 @@
 <h2 align="center">About Me</h2>
 
 ###
-Hello <br>
+Hello! <br>
 I'm **Srikar Narsingoju**
 
 I am a 3rd year student at **KMIT**, pursuing B.Tech in Information Technology.
 
 - I have a strong foundation in **Data Structures and Algorithms** with good problem-solving skills.
-- I am proficient in **Full Stack Development** with experience in building modern & dynamic web applications, from front-end interfaces to back-end systems.
+- I am proficient in **Full Stack Development** with experience in building modern & dynamic web applications.
 - I have a good understanding of **Computer Science fundamentals** and **Object Oriented Programming** concepts.
 
-I believe in continuous learning and enjoy exploring new technologies to expand my skill set.
+I believe in continuous learning and i love exploring new technologies to expand my skill set.
 
 I am actively seeking for internship opportunities to apply what I’ve learned and gain hands-on experience.
 
