@@ -45,8 +45,8 @@ I am actively seeking for internship opportunities to apply what I’ve learned 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=N-Srikar&show_icons=true&theme=radical" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=N-Srikar&locale=en&layout=compact&card_width=395&langs_count=10&theme=radical" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=N-Srikar&show_icons=true&theme=radical" height="150" width="500" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=N-Srikar&locale=en&layout=compact&card_width=395&langs_count=10&theme=radical" height="150" width="500" alt="languages graph"  />
 </div>
 
 
