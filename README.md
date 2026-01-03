@@ -15,7 +15,7 @@
 Hello! <br>
 I'm **Srikar Narsingoju**
 
-I am a 3rd year student at **KMIT**, pursuing B.Tech in Information Technology.
+I am a 4th year student at **KMIT**, pursuing B.Tech in Information Technology.
 
 - I have a strong foundation in **Data Structures and Algorithms** with good problem-solving skills.
 - I am proficient in **Full Stack Development** with experience in building modern & dynamic web applications.
@@ -41,14 +41,6 @@ I am actively seeking for internship opportunities to apply what I’ve learned 
   </a>
 
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=N-Srikar&show_icons=true&theme=radical" height="150" width="500" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=N-Srikar&locale=en&layout=compact&card_width=395&langs_count=10&theme=radical" height="150" width="500" alt="languages graph"  />
-</div>
-
 
 ###
 
