@@ -9,9 +9,10 @@
 
 ###
 
-<h2 align="center">About Me</h2>
+<h3 align="center">About Me</h3>
 
 ###
+
 Hello! <br>
 I'm **Srikar Narsingoju**
 
@@ -27,7 +28,7 @@ I am actively seeking for internship opportunities to apply what I’ve learned 
 
 ###
 
-<h2 align="center">Connect</h2>
+<h3 align="center">Connect</h3>
 
 ###
 
@@ -43,6 +44,4 @@ I am actively seeking for internship opportunities to apply what I’ve learned 
 </div>
 
 ###
-
-
 ---
